@@ -1,0 +1,3 @@
+cat DZImages.xml_header > DZImages.xml
+cat images.xml >> DZImages.xml
+cat DZImages.xml_footer >> DZImages.xml
