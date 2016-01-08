@@ -8,4 +8,4 @@
     <FacetCategory Name="Type" Type="String" P:IsFilterVisible="true" P:IsWordWheelVisible="true" P:IsMetaDataVisible="true" />
     <FacetCategory Name="Name" Type="String" P:IsFilterVisible="false" P:IsWordWheelVisible="false" P:IsMetaDataVisible="true" />
   </FacetCategories>
-  <Items ImgBase="PASS Summit 2011\DZImages.xml">
+  <Items ImgBase="ODIDrive\DZImages.xml">
